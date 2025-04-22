@@ -82,6 +82,11 @@ Advanced Retrieval Augmented Generation system for CFA Institute Research Founda
 
 **Tech:** Apache Airflow, Snowflake, AWS S3, Milvus, OpenAI API, FastAPI, Streamlit, Docker, GCP
 
+### [GAIA Benchmark LLM Evaluation Tool](https://github.com/ViswanathRajuIndukuri/GAIA-Benchmark-LLM-Evaluation-Tool)
+Platform for evaluating Large Language Models against the GAIA dataset with interactive visualization
+
+**Tech:** Streamlit, GCP, OpenAI API, PostgreSQL, Terraform, Python
+
 ### [Cloud-Based Web Application and IaC](https://github.com/cloud-org-gcp/tf-gcp-infra)
 Resilient web application with infrastructure as code for consistent deployments
 
