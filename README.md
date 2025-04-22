@@ -86,8 +86,8 @@ Research project using hybrid CNN and RNN-LSTM models for accurate precipitation
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viswanathraju&show_icons=true&theme=tokyonight" alt="Viswanath's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viswanathraju&theme=tokyonight" alt="Viswanath's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ViswanathRajuIndukuri&show_icons=true&theme=tokyonight" alt="Viswanath's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViswanathRajuIndukuri&theme=tokyonight" alt="Viswanath's GitHub streak" />
 </div>
 
 ## 📫 Connect With Me
