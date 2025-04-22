@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Viswanath Raju Indukuri
 
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZ2bm9qaWt5MDkxeTNqMXIwZm0wNjd5ZnRidnlvc2h3aXA5djh5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Data Engineer Coding Animation"/>
   <img src="https://img.shields.io/badge/Data_Engineer-007396?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Engineer"/>
   <img src="https://img.shields.io/badge/AI/ML_Engineer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML Engineer"/>
   <img src="https://img.shields.io/badge/Cloud_Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Cloud Architect"/>
