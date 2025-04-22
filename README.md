@@ -63,22 +63,27 @@ I'm a data engineering and AI/ML professional with a passion for building scalab
 
 ## 🔥 Featured Projects
 
-### [Intelligent Job Search Assistant and Analytics](https://github.com/viswanathraju/Intelligent-Job-Search-Assistant-Analytics)
+### [Intelligent Job Search Assistant and Analytics](https://github.com/ViswanathRajuIndukuri/Intelligent-Job-Search-Assistant)
 AI-powered job search tool with natural language querying and analytics dashboard
 
 **Tech:** Airflow, Snowflake, AWS, OpenAI, LangGraph, FastAPI, Streamlit, Docker
 
-### [Multi-Agent and Multi-modal Research Assistant](https://github.com/viswanathraju/Multi-Agent-Multi-modal-Research-Assistant)
+### [Multi-Agent and Multi-modal Research Assistant](https://github.com/ViswanathRajuIndukuri/Intelligent-Research-Assistant)
 Research tool combining multiple AI agents for comprehensive analysis from various sources
 
 **Tech:** Airflow, GCP, Pinecone, FastAPI, LangChain, LangGraph, OpenAI, Streamlit
 
-### [Cloud-Based Web Application and IaC](https://github.com/viswanathraju/Cloud-Web-App-IaC)
+### [Multi-modal RAG System](https://github.com/ViswanathRajuIndukuri/Multi-modal-Retrieval-Augmented-Generation)
+Advanced Retrieval Augmented Generation system for CFA Institute Research Foundation publications
+
+**Tech:** Apache Airflow, Snowflake, AWS S3, Milvus, OpenAI API, FastAPI, Streamlit, Docker, GCP
+
+### [Cloud-Based Web Application and IaC](https://github.com/cloud-org-gcp/tf-gcp-infra)
 Resilient web application with infrastructure as code for consistent deployments
 
 **Tech:** GCP, FastAPI, Cloud SQL, Terraform, Packer, GitHub Actions
 
-### [Hybrid Deep Learning Model for Weather Forecasting](https://github.com/viswanathraju/Deep-Learning-Weather-Forecasting)
+### [Hybrid Deep Learning Model for Weather Forecasting](https://github.com/ViswanathRajuIndukuri/HYBRID-CNN-RNN-LSTM-Deep-Learning-Model)
 Research project using hybrid CNN and RNN-LSTM models for accurate precipitation forecasting
 
 **Tech:** Python, TensorFlow, CNN, RNN-LSTM, Data Analysis
