@@ -67,6 +67,8 @@ I'm a data engineering and AI/ML professional with a passion for building scalab
 
 ## 🔥 Featured Projects
 
+<div style="border: 1px solid #2f80ed; border-radius: 10px; padding: 15px; margin-bottom: 15px;">
+
 ### [Intelligent Job Search Assistant and Analytics](https://github.com/ViswanathRajuIndukuri/Intelligent-Job-Search-Assistant)
 AI-powered job search tool with natural language querying and analytics dashboard
 
@@ -82,6 +84,10 @@ AI-powered job search tool with natural language querying and analytics dashboar
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
+</div>
+
+<div style="border: 1px solid #2f80ed; border-radius: 10px; padding: 15px; margin-bottom: 15px;">
+
 ### [Multi-Agent and Multi-modal Research Assistant](https://github.com/ViswanathRajuIndukuri/Intelligent-Research-Assistant)
 Research tool combining multiple AI agents for comprehensive analysis from various sources
 
@@ -96,6 +102,10 @@ Research tool combining multiple AI agents for comprehensive analysis from vario
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 </p>
+
+</div>
+
+<div style="border: 1px solid #2f80ed; border-radius: 10px; padding: 15px; margin-bottom: 15px;">
 
 ### [Multi-modal RAG System](https://github.com/ViswanathRajuIndukuri/Multi-modal-Retrieval-Augmented-Generation)
 Advanced Retrieval Augmented Generation system for CFA Institute Research Foundation publications
@@ -113,9 +123,14 @@ Advanced Retrieval Augmented Generation system for CFA Institute Research Founda
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
 </p>
 
+</div>
+
+<div style="border: 1px solid #2f80ed; border-radius: 10px; padding: 15px; margin-bottom: 15px;">
+
 ### [GAIA Benchmark LLM Evaluation Tool](https://github.com/ViswanathRajuIndukuri/GAIA-Benchmark-LLM-Evaluation-Tool)
 Platform for evaluating Large Language Models against the GAIA dataset with interactive visualization
 
+**Tech:**
 <p>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
@@ -125,9 +140,14 @@ Platform for evaluating Large Language Models against the GAIA dataset with inte
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
+</div>
+
+<div style="border: 1px solid #2f80ed; border-radius: 10px; padding: 15px; margin-bottom: 15px;">
+
 ### [Cloud-Based Web Application and IaC](https://github.com/cloud-org-gcp/tf-gcp-infra)
 Resilient web application with infrastructure as code for consistent deployments
 
+**Tech:**
 <p>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -137,9 +157,14 @@ Resilient web application with infrastructure as code for consistent deployments
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 
+</div>
+
+<div style="border: 1px solid #2f80ed; border-radius: 10px; padding: 15px; margin-bottom: 15px;">
+
 ### [Hybrid Deep Learning Model for Weather Forecasting](https://github.com/ViswanathRajuIndukuri/HYBRID-CNN-RNN-LSTM-Deep-Learning-Model)
 Research project using hybrid CNN and RNN-LSTM models for accurate precipitation forecasting
 
+**Tech:**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
@@ -148,12 +173,8 @@ Research project using hybrid CNN and RNN-LSTM models for accurate precipitation
   <img src="https://img.shields.io/badge/Data_Analysis-44A833?style=flat-square&logo=pandas&logoColor=white" />
 </p>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViswanathRajuIndukuri&show_icons=true&theme=tokyonight" alt="Viswanath's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViswanathRajuIndukuri&theme=tokyonight" alt="Viswanath's GitHub streak" />
 </div>
+
 ## 📈 GitHub Stats
 
 <div align="center">
