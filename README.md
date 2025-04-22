@@ -70,33 +70,90 @@ I'm a data engineering and AI/ML professional with a passion for building scalab
 ### [Intelligent Job Search Assistant and Analytics](https://github.com/ViswanathRajuIndukuri/Intelligent-Job-Search-Assistant)
 AI-powered job search tool with natural language querying and analytics dashboard
 
-**Tech:** Airflow, Snowflake, AWS, OpenAI, LangGraph, FastAPI, Streamlit, Docker
+**Tech:**
+<p>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-00ADD8?style=flat-square" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
 ### [Multi-Agent and Multi-modal Research Assistant](https://github.com/ViswanathRajuIndukuri/Intelligent-Research-Assistant)
 Research tool combining multiple AI agents for comprehensive analysis from various sources
 
-**Tech:** Airflow, GCP, Pinecone, FastAPI, LangChain, LangGraph, OpenAI, Streamlit
+**Tech:**
+<p>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-65C6B1?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangGraph-00ADD8?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+</p>
 
 ### [Multi-modal RAG System](https://github.com/ViswanathRajuIndukuri/Multi-modal-Retrieval-Augmented-Generation)
 Advanced Retrieval Augmented Generation system for CFA Institute Research Foundation publications
 
-**Tech:** Apache Airflow, Snowflake, AWS S3, Milvus, OpenAI API, FastAPI, Streamlit, Docker, GCP
+**Tech:**
+<p>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+</p>
 
 ### [GAIA Benchmark LLM Evaluation Tool](https://github.com/ViswanathRajuIndukuri/GAIA-Benchmark-LLM-Evaluation-Tool)
 Platform for evaluating Large Language Models against the GAIA dataset with interactive visualization
 
-**Tech:** Streamlit, GCP, OpenAI API, PostgreSQL, Terraform, Python
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
 
 ### [Cloud-Based Web Application and IaC](https://github.com/cloud-org-gcp/tf-gcp-infra)
 Resilient web application with infrastructure as code for consistent deployments
 
-**Tech:** GCP, FastAPI, Cloud SQL, Terraform, Packer, GitHub Actions
+<p>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_SQL-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Packer-02A8EF?style=flat-square&logo=packer&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+</p>
 
 ### [Hybrid Deep Learning Model for Weather Forecasting](https://github.com/ViswanathRajuIndukuri/HYBRID-CNN-RNN-LSTM-Deep-Learning-Model)
 Research project using hybrid CNN and RNN-LSTM models for accurate precipitation forecasting
 
-**Tech:** Python, TensorFlow, CNN, RNN-LSTM, Data Analysis
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/CNN-FC4C02?style=flat-square" />
+  <img src="https://img.shields.io/badge/RNN--LSTM-00AEFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Analysis-44A833?style=flat-square&logo=pandas&logoColor=white" />
+</p>
 
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ViswanathRajuIndukuri&show_icons=true&theme=tokyonight" alt="Viswanath's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViswanathRajuIndukuri&theme=tokyonight" alt="Viswanath's GitHub streak" />
+</div>
 ## 📈 GitHub Stats
 
 <div align="center">
