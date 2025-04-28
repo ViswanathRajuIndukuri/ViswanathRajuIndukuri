@@ -54,6 +54,7 @@ I'm a data engineering and AI/ML professional with a passion for building scalab
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-65C6B1?style=flat-square" />
 <img src="https://img.shields.io/badge/LangGraph-00ADD8?style=flat-square" />
 
@@ -66,6 +67,25 @@ I'm a data engineering and AI/ML professional with a passion for building scalab
 </div>
 
 ## 🔥 Featured Projects
+
+### [FullStack Multimodal RAG System for CFA Publications](https://github.com/ViswanathRajuIndukuri/Fullstack-Multimodal-RAG-System)
+A comprehensive multimodal retrieval-augmented generation system that processes CFA publications, extracts text and images, vectorizes content, and provides an intelligent Q&A interface leveraging multimodal data.
+
+**Tech:**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-65C6B1?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangGraph-00ADD8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+---
 
 ### [Intelligent Job Search Assistant and Analytics](https://github.com/ViswanathRajuIndukuri/Intelligent-Job-Search-Assistant)
 AI-powered job search tool with natural language querying and analytics dashboard
@@ -97,24 +117,6 @@ Research tool combining multiple AI agents for comprehensive analysis from vario
   <img src="https://img.shields.io/badge/LangGraph-00ADD8?style=flat-square" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-</p>
-
----
-
-### [Multi-modal RAG System](https://github.com/ViswanathRajuIndukuri/Multi-modal-Retrieval-Augmented-Generation)
-Advanced Retrieval Augmented Generation system for CFA Institute Research Foundation publications
-
-**Tech:**
-<p>
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
 </p>
 
 ---
