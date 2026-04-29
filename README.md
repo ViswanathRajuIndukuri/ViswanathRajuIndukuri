@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a data engineering and AI/ML professional with a passion for building scalable data infrastructure and creating intelligent solutions that drive business value. With experience across the full data lifecycle, from ETL pipelines and cloud architecture to advanced analytics and machine learning, I bridge the gap between technical implementation and business impact.
+I'm a Software, Data, and AI/ML professional with a passion for building scalable data infrastructure and creating intelligent systems that drive business value. With experience across the full data lifecycle, from ETL pipelines, AI systems, and cloud architecture to advanced analytics and machine learning, I bridge the gap between technical implementation and business impact.
 
 ## 💻 Tech Stack
 
